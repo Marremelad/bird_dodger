@@ -156,7 +156,7 @@ def main():
         else:
             score = 0
             bird_speed = 5
-            bird_x = 950
+            bird_x = 900
 
             # Update highscore
             with open("high_score.txt") as file:
