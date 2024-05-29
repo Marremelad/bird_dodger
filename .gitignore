@@ -1,5 +1,3 @@
 # Ignore assets
-audio/
-font/
-sprites/
+
 __pycache__
