@@ -7,7 +7,7 @@ A 2D game made witht he pygame library. Dodge as many birds as you can!
 * Save high score
 
 ### Application demo
-<img src="IMAGEURL" height="300" width="500" alt="Application Demo">
+<img src="https://github.com/Marremelad/AssetsAndImages/raw/main/BirdDodgerScreenRecording.gif" height="300" width="500" alt="Application Demo">
 
 ### Requirements 
 * .NET 8 or higher
