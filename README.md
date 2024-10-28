@@ -1,7 +1,7 @@
 # Bird Dodger 🦅
 
 ## Description
-A 2D game made witht he pygame library.
+A 2D game made witht he pygame library. Dodge as many birds as you can!
 ### Features
 * Dodge birds
 * Save high score
