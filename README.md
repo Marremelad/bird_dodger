@@ -10,7 +10,8 @@ A 2D game made witht he pygame library. Dodge as many birds as you can!
 <img src="https://github.com/Marremelad/AssetsAndImages/raw/main/BirdDodgerScreenRecording.gif" height="300" width="500" alt="Application Demo">
 
 ### Requirements 
-* .NET 8 or higher
+* Python 3.12.0 or higher
+* PyGame library
 
 ### Get started
 If you are using Visual Studio or any other IDE with an integrated repo-cloning function use it with this URL - https://github.com/Marremelad/bird_dodger.git
